@@ -16,7 +16,7 @@ The tools and projects are broken down by 6 categories
 
 This is an extremely competitive list and it carefully picks the best open source Machine Learning projects published between Jan and Dec 2018. Mybridge AI evaluates the quality by considering popularity, engagement and recency. To give you an idea about the quality, the average number of Github ⭐️ is 3,566.
 
-Subscribe to Machine Learning Monthly: [Link](https://github.com/Mybridge/machine-learning-open-source)
+Subscribe to Machine Learning Monthly: [Link](https://github.com/Mybridge/machine-learning-open-source) <br>
 Original Medium Article: [Link](https://medium.mybridge.co/amazing-machine-learning-open-source-tools-projects-of-the-year-v-2019-95d772e4e985)
 
 
