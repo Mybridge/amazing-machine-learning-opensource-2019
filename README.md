@@ -1,7 +1,7 @@
 # amazing-machine-learning-opensource-2019
-Amazing Machine Learning Open Source Tools and Projects for the Past Year (v.2019)
+Amazing Machine Learning Open Source Tools and Projects for the Past Year (v.2019) 
 
-<img src="ml-open-source-2019.png" width="800" alt="Mybridge"></a>
+<a href="https://medium.mybridge.co/amazing-machine-learning-open-source-tools-projects-of-the-year-v-2019-95d772e4e985"><img src="ml-open-source-2019.png" width="800" alt="Mybridge"></a>
 
 For the past year, we’ve compared nearly 22,000 Machine Learning open source tools and projects to pick Top 49 (0.22% chance).
 
@@ -17,6 +17,7 @@ The tools and projects are broken down by 6 categories
 This is an extremely competitive list and it carefully picks the best open source Machine Learning projects published between Jan and Dec 2018. Mybridge AI evaluates the quality by considering popularity, engagement and recency. To give you an idea about the quality, the average number of Github ⭐️ is 3,566.
 
 Subscribe to Machine Learning Monthly: [Link](https://github.com/Mybridge/machine-learning-open-source)
+Original Medium Article: [Link](https://medium.mybridge.co/amazing-machine-learning-open-source-tools-projects-of-the-year-v-2019-95d772e4e985)
 
 
 <br>
