@@ -33,7 +33,7 @@ B) [Advanced: Deep Reinforcement Learning in Python.](http://bit.ly/2DQxHjq) 20,
 
 
 #### Computer Vision
-*[Detectron: FAIRs research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. ★18910](https://github.com/facebookresearch/Detectron)
+*[Detectron: FAIRs research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. ★18910](https://github.com/facebookresearch/Detectron) <br>
 *[Openpose: Real-time multi-person keypoint detection library for body, face, and hands estimation ★11048](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 *[DensePose: A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body ★4165](https://github.com/facebookresearch/Densepose)
 *[Maskrcnn-benchmark: Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithms in PyTorch. ★3888](https://github.com/facebookresearch/maskrcnn-benchmark)
