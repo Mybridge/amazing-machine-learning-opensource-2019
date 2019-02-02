@@ -48,9 +48,9 @@ B) [Advanced: Deep Reinforcement Learning in Python.](http://bit.ly/2DQxHjq) 20,
 * [Chess-alpha-zero: Chess reinforcement learning by AlphaGo Zero methods. ★1307](https://github.com/Zeta36/chess-alpha-zero) <br>
 * [Dm_control: The DeepMind Control Suite and Control Package ★1231](https://github.com/deepmind/dm_control) <br>
 * [MAMEToolkit: Arcade Game Reinforcement Learning Python Library ★437](https://github.com/M-J-Murray/MAMEToolkit) <br>
+* [Reaver: Reaver: Modular Deep Reinforcement Learning Framework. Focused on StarCraft II. Supports Gym, Atari, and MuJoCo. Matches reference results. ★355](https://github.com/inoryy/reaver) <br>
 
 #### NLP
-* [Reaver: Reaver: Modular Deep Reinforcement Learning Framework. Focused on StarCraft II. Supports Gym, Atari, and MuJoCo. Matches reference results. ★355](https://github.com/inoryy/reaver) <br>
 * [Bert: TensorFlow code and pre-trained models for BERT ★11691](https://github.com/google-research/bert) <br>
 * [Pytext: A natural language modeling framework based on PyTorch ★4466](https://github.com/facebookresearch/pytext) <br>
 * [Bert-as-service: A NLP model developed by Google for pre-training language representations. It leverages an enormous amount of plain text data publicly available on the web and is trained in an unsupervised manner. ★2053](https://github.com/hanxiao/bert-as-service) <br>
