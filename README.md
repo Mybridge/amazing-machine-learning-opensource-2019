@@ -94,3 +94,5 @@ B) [Advanced: Deep Reinforcement Learning in Python.](http://bit.ly/2DQxHjq) 20,
 * [Donkeycar: Open source hardware and software platform to build a small scale self driving car. ★1207](https://github.com/autorope/donkeycar) <br>
 * [PocketFlow: An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. ★1674](https://github.com/Tencent/PocketFlow) <br>
 * [DALI: A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications ★1012](https://github.com/NVIDIA/dali) <br>
+* [DVC: Data & models versioning for ML projects, make them shareable and reproducible. ★1812](https://github.com/iterative/dvc/) <br>
+
